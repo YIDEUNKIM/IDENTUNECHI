@@ -1,4 +1,5 @@
-## Hi there 👋
+## YIDEUN KIM
+
 ![YIDEUN's GitHub stats](https://github-readme-stats.vercel.app/api?username=IDENTUNECHI&show_icons=true&theme=radical)
 <!--
 **IDENTUNECHI/IDENTUNECHI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
