@@ -18,7 +18,7 @@
   ## 🧱 Tech Stack
   ### Language
   <!-- Java-->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-3776AB?style=flat-square&logo=Java&logoColor=white"/>
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <!--JavaScript-->
