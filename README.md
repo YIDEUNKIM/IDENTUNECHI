@@ -40,11 +40,6 @@
   <br/>
   <br/>
   
-  ## 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IDENTUNECHI)](https://github.com/IDENTUNECHI/github-readme-stats)
-  <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IDENTUNECHI)](https://github.com/IDENTUNECHI/github-readme-stats)
-  
 </div>
 
 <!--
