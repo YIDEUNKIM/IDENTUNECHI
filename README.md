@@ -17,12 +17,12 @@ I'm developer from South Korea.
 <br/>
 ### 🔥 Things I code with
 
-<!-->![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?logo=spring&logoColor=white)
+<!--![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?logo=spring&logoColor=white)-->
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python--%23ED8B00.svg?logo=openjdk&logoColor=white)
-<!-->![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=cplusplus&logoColor=white)
+<!--![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=cplusplus&logoColor=white)-->
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?logo=typescript&logoColor=white)
-<!-->![React](https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=black)
+<!--![React](https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=black)-->
 
 ### 💡 Things I've Experienced
 
