@@ -21,7 +21,6 @@ I'm developer from South Korea.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <!--[C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=cplusplus&logoColor=white)-->
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-<!--[React](https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=black)-->
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### 💡 Things I've Experienced
