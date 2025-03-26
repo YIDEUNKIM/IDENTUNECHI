@@ -15,7 +15,7 @@ I'm developer from South Korea.
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kye04250425)](https://solved.ac/kye04250425)
 
 <br/>
-###🔥 Things I code with
+### 🔥 Things I code with
 
 <!--[Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?logo=spring&logoColor=white)-->
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
@@ -24,6 +24,6 @@ I'm developer from South Korea.
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?logo=typescript&logoColor=white)
 <!--[React](https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=black)-->
 
-###💡 Things I've Experienced
+### 💡 Things I've Experienced
 
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white)
