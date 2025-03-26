@@ -5,53 +5,25 @@
   
 </div>
 
-<div>
-  <!--Body-->
-  
-  ## 👀 About Me
-  #### :raising_hand: I am a Computer Engineering Student from South Korea.<br/>
-  #### :mortar_board: Bachelor of Applied Computer engineering, Kangwon University(SKKU)
-  <br/>
-  <br/>
-  
-  ## 🧱 Tech Stack
-  ### Language
-  <!-- Java-->
-  <img src="https://img.shields.io/badge/Java-3776AB?style=flat-square&logo=Java&logoColor=white"/>
-  <!--Python-->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <br/>
-  
-  ### Library
-  <!--PyTorch-->
-  <!--Selenium-->
-  <br/>
-  
-  ### Framework
- 
-  <br/>
-  
-  ### ETC
-  
-  <!--Slack-->
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
- 
-  <br/>
-  <br/>
-  
-</div>
+# 😎안녕하세요(hello!)
+Always open mind!
+<br/>
+I'm developer from South Korea.
 
-<!--
-**Jiyu-Kim/Jiyu-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![HyeonJun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YIDEUNKIM&show_icons=true&theme=radical)
+<br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kye04250425)](https://solved.ac/kye04250425)
 
-Here are some ideas to get you started:
-- Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+### 🔥 Things I code with
+
+<!-->![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?logo=spring&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python--%23ED8B00.svg?logo=openjdk&logoColor=white)
+<!-->![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?logo=typescript&logoColor=white)
+<!-->![React](https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=black)
+
+### 💡 Things I've Experienced
+
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white)
